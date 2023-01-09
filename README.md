@@ -18,7 +18,7 @@ You'll need to create CSS file that defines the logo class (companyLogo). To use
   height: 65px;
 }
 ```
-**NOTE** A default css file which includes the Ping logo is available from within the [CSS](/css). directory
+**NOTE** A default css file which includes the Ping logo is available from within the [CSS](/css) directory
 
 ## Placeholders
 For many of the HTML snippets, placeholder text has been added that will require updating based on your form/field, title, text values.
