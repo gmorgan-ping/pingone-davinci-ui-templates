@@ -22,4 +22,4 @@ You'll need to create CSS file that defines the logo class (companyLogo). To use
 ## Placeholders
 For many of the HTML snippets, placeholder text has been added that will require updating based on your form/field, title, text values.
 
-Text that requires updating begins and ends with a double underscore eg. __TITLE_TEXT__
+Text that requires updating begins and ends with a double underscore eg. `__TITLE_TEXT__`
